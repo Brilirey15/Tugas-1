@@ -7,7 +7,7 @@ echo ($a + $b)."</br>";
 $a = 150;
 $b = 50;
 
-echo "Kurang"($a - $b)."</br>";
+echo ($a - $b)."</br>";
 //*Jarak
 $a = 150;
 $b = 50;
