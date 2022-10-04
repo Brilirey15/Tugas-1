@@ -1,6 +1,6 @@
 <?php
-$jurusan = array ("<br>Sistem Informasi</br>","Bahasa Inggris","<br>Ekonomi</br>");
-echo$jurusan [0];
-echo$jurusan [1];
-echo$jurusan [2]."</br>";
+$motor = array ("<br>Jupiter Z</br>","Honda Tiger","<br>Yamaha Vixion</br>");
+echo$motor [0];
+echo$motor [1];
+echo$motor [2]."</br>";
 ?>
