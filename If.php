@@ -1,6 +1,6 @@
 <?php
-$harga=100000;
-if ($harga < 150000){
-	echo "Akan saya beli";
+$beban=100;
+if ($harga < 150){
+	echo "Beban Ringan";
 }
 ?>
