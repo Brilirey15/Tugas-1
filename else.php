@@ -1,11 +1,11 @@
 <?php
-$harga=100000;
-if ($harga > 150000){
-	echo "tidak saya beli";	
-}else if ($harga > 80000)
+$beban=100;
+if ($beban > 150){
+	echo "Beban Berat";	
+}else if ($beban > 80)
 {
-	echo "akan saya tawar";
+	echo "Beban Lumayan";
 }else{
-	echo "saya akan beli";
+	echo "Beban Ringan";
 }
 ?>
