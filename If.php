@@ -1,6 +1,6 @@
 <?php
 $beban=100;
-if ($harga < 150){
+if ($beban < 150){
 	echo "Beban Ringan";
 }
 ?>
